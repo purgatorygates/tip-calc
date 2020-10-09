@@ -1,0 +1,8 @@
+{
+  "name": "tip-calc",
+  "version": "1.0.0",
+  "main": "tip-calc.js",
+  "repository": "git@github.com:purgatorygates/tip-calc.git",
+  "author": "purgatorygates <ulisesrivero1984@gmail.com>",
+  "license": "MIT"
+}
