@@ -4,5 +4,8 @@
   "main": "tip-calc.js",
   "repository": "git@github.com:purgatorygates/tip-calc.git",
   "author": "purgatorygates <ulisesrivero1984@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
